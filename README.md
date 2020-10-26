@@ -46,5 +46,5 @@ Below is the detailed explanation of each subfolder.
 
 
 Feel free to refer to the data and codes displayed in the subfolders. If used in your research, please cite our paper. 
-## References:
+**References:**
 Chen, S., Xie, W. (2020). On the Cluster-aware Supervised Learning (CluSL): Frameworks, Convergent Algorithms, and Applications. *INFORMS Journal on Computing*. Accepted.
